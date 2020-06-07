@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a1c03cc-62d7-497f-a92d-d3f900f12277" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1coQNOTNJHhLLKgtfMwKhMLvLIb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/practicejpa" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PracticejpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Practice-JPA" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codecool.practicejpa.PracticejpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a1c03cc-62d7-497f-a92d-d3f900f12277" name="Default Changelist" comment="" />
+      <created>1591192425038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591192425038</updated>
+      <workItem from="1591192426292" duration="241000" />
+      <workItem from="1591544408022" duration="33000" />
+      <workItem from="1591544574545" duration="174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="124" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591544699991">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="428" y="124" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1533.873@67.27.1533.873" timestamp="1591544699991" />
+    <state x="611" y="205" width="424" height="513" key="FileChooserDialogImpl" timestamp="1591544747123">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="611" y="205" width="424" height="513" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1591544747123" />
+    <state width="1487" height="219" key="GridCell.Tab.0.bottom" timestamp="1591544750721">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1591544750721" />
+    <state width="1487" height="219" key="GridCell.Tab.0.center" timestamp="1591544750720">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1591544750720" />
+    <state width="1487" height="219" key="GridCell.Tab.0.left" timestamp="1591544750720">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1591544750720" />
+    <state width="1487" height="219" key="GridCell.Tab.0.right" timestamp="1591544750721">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1591544750721" />
+    <state width="1487" height="219" key="GridCell.Tab.1.bottom" timestamp="1591544750722">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.1.bottom/67.27.1533.873@67.27.1533.873" timestamp="1591544750722" />
+    <state width="1487" height="219" key="GridCell.Tab.1.center" timestamp="1591544750721">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.1.center/67.27.1533.873@67.27.1533.873" timestamp="1591544750721" />
+    <state width="1487" height="219" key="GridCell.Tab.1.left" timestamp="1591544750721">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.1.left/67.27.1533.873@67.27.1533.873" timestamp="1591544750721" />
+    <state width="1487" height="219" key="GridCell.Tab.1.right" timestamp="1591544750722">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.1.right/67.27.1533.873@67.27.1533.873" timestamp="1591544750722" />
+    <state x="142" y="166" width="1372" height="592" key="new project wizard" timestamp="1591192666340">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="142" y="166" width="1372" height="592" key="new project wizard/67.27.1533.873@67.27.1533.873" timestamp="1591192666340" />
+  </component>
+</project>
